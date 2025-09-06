@@ -17,4 +17,5 @@ problemas detectados
 
 Tabla o resumen del dataset ya depurado.
 
-hola
+hola, hola como estas?
+
